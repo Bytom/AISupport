@@ -1,32 +1,45 @@
-## 快速开始
+## Quick Start
 
-### 什么是Maze AI
+### What is Maze AI？
 
-Maze AI是一个用AI拓展人类想象力的平台，探索新的世界和未来的可能性
+Maze AI is a platform that expanding the imaginative powers of the human, exploring new worlds and more possibilities
 
-您可以使用Maze开发的Discord机器人来体验，加入我们的Discord服务器：
-使用相应的指令来生成图形。
+you can experience all the functions by the Maze Discord bot, join our Discord server :https://discord.gg/JnH9mwvf.
 
-### 注意事项
+### Create your first AIGC image
 
-请勿使用工具生成会引起争议的图片，比如色情或者血腥图片
-你创作的图片，版权都归属你所有
+Once you start using our service, you will be able to create a limited number of images before needing to subscribe.You will have 50 free uses per day. if you need more you can buy our services
 
-### 生成你的第一张AI图片
+#### 1. Join Maze Discord server
 
-1、加入Discord服务器：
+you need to register Discord, login Discord ,and join Maze Server:https://discord.gg/JnH9mwvf.
 
-2、从侧边栏选择一个 #newbies 频道
+#### 2.Go to the 'playground' channel
 
-3、输入/image指令
+select the NEW COMER ROOM, and go to the 'playground' channel
 
-4、等待图片生成（/fast 模式大概50s，/relax 模式需要排队，时间不确定）
+![](../images/quick-start/quick1.png)
 
-5、保持你的图片
+#### 3.Use the `/image` command
 
-### 付费
+Start typing `/image` and you will notice something pop up above your text.
 
-新手可以获得20张免费的图片生成，如果想要继续使用，需要进行付费使用
+Click or tap on the `/imagine` option: the prompt field will be created and now you can add whatever you want the bot to generate, as you can see in the video below.
+
+![](../images/quick-start/quick2.gif)
+
+#### 4.Waiting for the image to be generated
+
+wait until the progress to 100%
+
+![](../images/quick-start/quick3.png)
+
+if you are in `/fast` mode, it take about 1 minute.
+if you are in `/relax`, it will in queue and the time is uncertain
+
+#### 5.Save your image
+
+Right click the picture and Save your image
 
 
 
