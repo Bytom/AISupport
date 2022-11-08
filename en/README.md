@@ -11,3 +11,6 @@ Welcome to Maze Help Center
 - [Frequently Asked Questions](ai/FAQ.md)
 
 ### Terms of agreement
+
+- [Terms of Service](agreement/terms-of-service.md)
+- [privacy-policy](agreement/privacy-policy.md)
